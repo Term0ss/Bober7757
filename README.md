@@ -6,7 +6,7 @@ Tak szczerze to lubie Pythona i C#
 <h3 align="left">Języki:</h3>  
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" alt="C#" width=40 height=40/>
-           </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+           </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" alt="C++" width=40 height=40/> </a> 
           
 
